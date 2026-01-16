@@ -1,0 +1,7 @@
+sample_id,gene,variant,impact,af
+S1,BRCA1,c.123A>G,high,0.01
+S1,TP53,c.215C>T,moderate,0.05
+S2,BRCA1,c.345G>A,high,0.02
+S2,CFTR,c.1521_1523delCTT,high,0.001
+S3,TP53,c.743G>A,moderate,0.03
+S3,BRCA2,c.5946delT,high,0.005

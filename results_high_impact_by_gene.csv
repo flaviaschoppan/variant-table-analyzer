@@ -1,0 +1,4 @@
+gene,n_variants,mean_af
+BRCA1,2,0.015
+BRCA2,1,0.005
+CFTR,1,0.001
